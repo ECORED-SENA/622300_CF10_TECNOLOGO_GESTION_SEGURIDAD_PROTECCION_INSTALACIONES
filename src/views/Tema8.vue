@@ -13,7 +13,7 @@
       p.mb-5 El siguiente material audiovisual introduce el concepto, la finalidad y los componentes generales de los protocolos de seguridad:
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/bERop99ZjCo?si=Ry4dRjujymuysLx2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Protocolos de seguridad
       p.mb-5 Los protocolos se distinguen por las siguientes características:
       .bg-carrusel

@@ -153,7 +153,7 @@
       p.mb-5 El siguiente material audiovisual complementa las medidas aplicables a la protección de los sistemas, las redes y la información institucional:
       figure(data-aos="zoom-in").mb-0
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/WLl19lmeP50?si=C-aKQyIha7Npg_9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Seguridad de la información
       Separador
       #t_6_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -239,7 +239,7 @@
           p.mb-5 El siguiente video complementa los principios de mejora continua aplicables a las organizaciones:
           figure(data-aos="zoom-in").mb-5
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/hoRe5uouue0?si=Q7fUXg6-x5y0pdhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
             figcaption Video. La mejora continua en las organizaciones
       p.mb-5 La mejora continua puede contextualizarse mediante el siguiente caso:
       .caja-4.color-1.mb-0(data-aos="zoom-in")

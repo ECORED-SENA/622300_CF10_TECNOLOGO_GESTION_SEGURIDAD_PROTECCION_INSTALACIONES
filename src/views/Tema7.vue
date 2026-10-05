@@ -10,7 +10,7 @@
       p.mb-5 El siguiente video introduce los fundamentos de la gestión del talento humano y su importancia en las organizaciones:
       figure(data-aos="zoom-in").mb-0
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/bqhxWxbbxrE?si=DrF6DTQbnvU5Qck6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Generalidades de la gestión del talento humano
       Separador
       #t_7_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -98,7 +98,7 @@
       p.mb-5 El siguiente material audiovisual complementa los fundamentos relacionados con los valores, las prácticas y los comportamientos compartidos dentro de la organización:
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/3f5cgWZcXjs?si=H7w6J1HVxU1ESboC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Cultura organizacional
       p.mb-5 La relación entre las políticas y la cultura de seguridad comprende los siguientes elementos:
       .row.align-items-center.mb-5
