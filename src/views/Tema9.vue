@@ -78,7 +78,7 @@
                 .row.align-items-center
                   .col-lg.mb-4.mb-lg-0
                     h3 Identificación
-                    p.mb-0 Se inventarían los activos y se determinan las amenazas y vulnerabilidades relacionadas.
+                    p.mb-0 Se inventarían los activos y se determinarían las amenazas y vulnerabilidades relacionadas.
                   .col-auto(data-aos="zoom-in")
                     figure
                       img(src='@/assets/curso/temas/t9/img6.png', alt='' style="width: 300px").m-auto

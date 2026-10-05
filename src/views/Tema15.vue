@@ -51,7 +51,7 @@
             .row(titulo="Transparencia").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Las normas deben comunicarse claramente y aplicarse de manera uniforme.
             .row(titulo="Debido proceso").ajuste-cajaAcordion.ajuste-vineta
-              p.mb-3 Antes de tomar una decisión debe adelantarse un procedimiento que permita conocer los hechos, presentar argumentos y aportar pruebas.
+              p.mb-3 Antes de tomar una decisión, debe adelantarse un procedimiento que permita conocer los hechos, presentar argumentos y aportar pruebas.
             .row(titulo="Trazabilidad").ajuste-cajaAcordion.ajuste-vineta
               p.mb-3 Las actuaciones deben registrarse para conservar evidencia de la investigación, las comunicaciones y la decisión.
             .row(titulo="Legalidad").ajuste-cajaAcordion.ajuste-vineta

@@ -10,7 +10,7 @@
       #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 5.1 Tipos de servicios de seguridad
       p Los servicios de seguridad se organizan según la modalidad de protección, los recursos empleados y las necesidades particulares del entorno.
-      p.mb-5 Su clasificación permite precisar las funciones, el alcance y las condiciones operativas de cada servicio (Belfry, 2024). Estas, se explican en los siguientes apartados.
+      p.mb-5 Su clasificación permite precisar las funciones, el alcance y las condiciones operativas de cada servicio (Belfry, 2024). Estas, se explica en los siguientes apartados.
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t2/img8.png')
         h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Seguridad física

@@ -188,7 +188,7 @@
         .col-xl-10
           .caja-3.mb-5(data-aos="fade-right")   
             h5.mb-0  R=T×V×C
-      p.mb-5 A continuación, se explican cada una de las variables:
+      p.mb-5 A continuación, se explica cada una de las variables:
       .bg-slider.mb-5
         .px-5
           .ajuste-slider(data-aos="zoom-in")

@@ -99,7 +99,7 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Función: identifican objetos metálicos portados por las personas. 
+                  | Función: identificar objetos metálicos portados por las personas. 
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
@@ -107,7 +107,7 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Manejo: verificación previa, calibración, aplicación sin contacto inadecuado y registro de inspecciones.
+                  | Manejo: verificación previa, calibración, aplicación sin contacto inadecuada y registro de inspecciones.
             .col-lg-auto.order-2
               figure
                 img(src="@/assets/curso/temas/t3/img4.svg", alt="" style="max-width: 350px").m-auto

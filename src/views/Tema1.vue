@@ -78,7 +78,7 @@
                       td.texto-left Se presta mediante una relación contractual que establece su alcance, condiciones y responsabilidades.
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Ámbito de actuación
-                      td.ajuste-border-tabla.texto-left Interviene en asuntos que afectan el interés general, conforme con las competencias legales.
+                      td.ajuste-border-tabla.texto-left Interviene en asuntos que afectan el interés general, conforme a las competencias legales.
                       td.texto-left Actúa en espacios, actividades o servicios específicos definidos mediante el contrato.
                     tr
                       td.ajuste-border-tabla.texto-left.text-weight-bold Facultades
@@ -87,7 +87,7 @@
                     tr.ajuste-color-tabla
                       td.ajuste-border-tabla.texto-left.text-weight-bold Beneficiarios
                       td.ajuste-border-tabla.texto-left Está dirigida a la población y a la protección del interés colectivo.
-                      td.texto-left Está dirigida al cliente, la organización o las personas cubiertas por el servicio contratado.
+                      td.texto-left Está dirigida al cliente, a la organización o a las personas cubiertas por el servicio contratado.
           p.mb-0 Las diferencias delimitan la actuación de cada modalidad y permiten establecer mecanismos de coordinación respetuosos de las competencias y responsabilidades legalmente asignadas.
           Separador
           #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -119,7 +119,7 @@
                     .col-12
                       img(src='@/assets/curso/temas/t1/img8.png').m-auto
                   h4.mb-3.estilo-text Respuesta
-                  p.mb-0.text-center Ambas participan en la atención de situaciones de seguridad, conforme con los protocolos, recursos y límites legales aplicables.
+                  p.mb-0.text-center Ambas participan en la atención de situaciones de seguridad, conforme a los protocolos, recursos y límites legales aplicables.
                 .tarjeta.color-acento-botones.fit___card-sinbordes
                   .row.justify-content-center.mb-4
                     .col-12

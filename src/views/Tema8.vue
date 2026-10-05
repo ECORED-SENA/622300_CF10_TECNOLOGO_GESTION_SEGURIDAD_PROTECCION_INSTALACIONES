@@ -85,7 +85,7 @@
                 img(src='@/assets/curso/temas/t8/img8.png', alt="" ).m-auto
             .col-xl-7.order-1.order-lg-2.mb-4.mb-lg-0
               h4.txt--purpura.mb-4 Condiciones del servicio
-              p.mb-0 Antes de instalar el puesto deben definirse el alcance, los términos y las condiciones de prestación. El servicio puede incorporar vigilancia con o sin armas y medios tecnológicos, conforme con las disposiciones aplicables.
+              p.mb-0 Antes de instalar el puesto, deben definirse el alcance, los términos y las condiciones de prestación. El servicio puede incorporar vigilancia con o sin armas y medios tecnológicos, conforme a las disposiciones aplicables.
       p.mb-0 La definición de responsabilidades y condiciones facilita la coordinación del personal y delimita el alcance operativo del servicio.
       Separador
       #t_8_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")

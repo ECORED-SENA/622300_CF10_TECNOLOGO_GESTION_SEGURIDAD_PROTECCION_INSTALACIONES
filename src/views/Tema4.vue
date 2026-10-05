@@ -91,7 +91,7 @@
                   td.texto-left Limpieza de sensor, control de falsas aceptaciones y auditoría.
                 tr
                   td.ajuste-border-tabla.texto-left.text-weight-bold Cámara(s) de videovigilancia / CCTV
-                  td.ajuste-border-tabla.texto-left Analógica, IP, PTZ y fisheye.
+                  td.ajuste-border-tabla.texto-left Analógica, IP, PTZ y <i>fisheye</i>.
                   td.ajuste-border-tabla.texto-left Monitoreo visual y registro para evidencia.
                   td.ajuste-border-tabla.texto-left Manual de instalación (ángulos, iluminación), mantenimiento y almacenamiento.
                   td.ajuste-border-tabla.texto-left Alimentación PoE/Ethernet, red y servidor vídeo.

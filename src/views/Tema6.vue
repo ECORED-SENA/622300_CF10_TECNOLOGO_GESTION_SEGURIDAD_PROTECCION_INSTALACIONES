@@ -25,7 +25,7 @@
                       img(src='@/assets/curso/temas/t6/img2.png', alt='' style="width: 300px").m-auto
                   .col-lg.fit___pasosA-left
                     h3 Definir objetivos y metas
-                    p.mb-0 Se determina qué debe protegerse, frente a cuáles amenazas y cuál nivel de riesgo puede aceptar la organización.
+                    p.mb-0 Se determina qué debe protegerse, frente a que amenazas y que nivel de riesgo puede aceptar la organización.
                 .row.align-items-center
                   .col-lg.mb-4.mb-lg-0
                     h3 Evaluar los riesgos
